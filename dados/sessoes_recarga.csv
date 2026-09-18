@@ -1,0 +1,6 @@
+id_sessao,veiculo,carregador,protocolo,horario,energia_kwh,potencia_liberada_kw,tarifa_kwh,energia_solar_kwh,energia_bateria_kwh,energia_rede_kwh,custo_total,pagamento
+1,BYD Dolphin,CG-01,OCPP,14,20,22,0.75,20,0,0,15.00,Pago
+2,Tesla Model 3,CG-02,MQTT,19,30,55,1.20,20,10,0,36.00,Pago
+3,Volvo EX30,CG-03,API REST,20,25,50,1.20,0,15,10,30.00,Pendente
+4,GWM Ora 03,CG-01,OCPP,10,15,22,0.75,0,0,15,11.25,Pago
+5,Renault Kwid E-Tech,CG-02,MQTT,16,18,55,0.75,0,0,18,13.50,Pendente
